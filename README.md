@@ -67,7 +67,7 @@ Experience
 * Design and update website.
 
 
-Volunteer
+Volunteer Experience
 --------------------
 
 **Historic Hannibal Marketing Council:** Board Member and Event Chair | 2016-present   
