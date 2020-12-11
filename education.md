@@ -1,6 +1,6 @@
-## **[Resume](README.md) | [Education](education.md) | [Work Experience](experience.md)| [Volunteer Experience](volunteer.md) | [Contact](contact.md)**
+<img src="Kenna.png" align="left" width="110" height="110" >
 
-[Resume](Kenna.png)
+## **[Resume](README.md) | [Education](education.md) | [Work Experience](experience.md)| [Volunteer Experience](volunteer.md) | [Contact](contact.md)**
 
 # Kenna Bogue - [Education](education.md)
 ---------
