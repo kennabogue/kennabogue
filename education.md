@@ -13,7 +13,6 @@ kennabogue@gmail.com
 
 2020-present
 : **BS, Information Technology:** _[University of Missouri,](https://missouri.edu/)_ Columbia, MO
-   * Currently Learning: ```Python``` , ```HTML``` , ```Javascript```
 
 ---------
 
