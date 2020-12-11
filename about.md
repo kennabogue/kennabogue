@@ -21,30 +21,16 @@ kennabogue@gmail.com
 
 <p>Say hello at kennabogue@gmail.com.<p>
   
-    <!DOCTYPE html>
-    <html>
-    <head>
-    <meta charset="UTF-8">
-    <title>Fizz Buzz</title>
-    <script>
+    first_name = "Kenna" 
+    last_name = "Bogue"
+    my_age = int("28")
+    hobbyA, hobbyB = "kayaking" , "walking my dogs"
+    hometown = "Hannibal, Missouri"
+    time_resided = int("6")
 
-    function fizzbuzz() {
-      var display = document.getElementById('display');
-      var displayHTML = "";
-      for (i = 0; i < 100; i++) {
-        displayHTML += "<p>" + i + "</p>";
-      }
-      display.innerHTML = displayHTML;
-    }
 
-    </script>
-
-    </head>
-
-    <body onload="fizzbuzz()">
-    <div id="display">
-
-    </div>
-    </body>
-
-    </html>
+    print ("My name is", first_name, last_name)
+    print ("I am", my_age, "years old")
+    print ("My hobbies include", hobbyA, "&", hobbyB)
+    print ("I live in", hometown) 
+    print ("I have lived here since I was", my_age-time_resided)
