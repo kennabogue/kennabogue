@@ -1,34 +1,25 @@
----
+<img src="Kenna.png" align="left" width="110" height="110" >
 
-title: Kenna Bogue
-navigation:
-  - [Home]
-  - [Education]
-  - [Experience]
-  - [Volunteer Work]
-  - [Contact]
-    
+## **[Resume](README.md) | [Education](education.md) | [Work Experience](experience.md)| [Volunteer Experience](volunteer.md) | [Contact](contact.md)**
 
----
-
-# Kenna Bogue
+# Kenna Bogue - [Resume](README.md)
 ---------
 
 Hannibal, MO         
 kennabogue@gmail.com         
 (636)385-0643
 
-## Education
+## [Education](education.md)
 ---------
 
 2020-present
-: **BSc, Information Technology:** _[University of Missouri,](https://missouri.edu/)_ Columbia, MO
+: **BS, Information Technology:** _[University of Missouri,](https://missouri.edu/)_ Columbia, MO
 
 2010-2014
 : **Complete 110 credits toward BA, Music:** _[Truman State University,](https://www.truman.edu/)_ Kirksville, MO
 
 
-## Experience
+## [Work Experience](experience.md)
 ----------
 
 #### [Mark Twain Dinette](https://marktwaindinette.com/):
@@ -53,7 +44,7 @@ _Marketing Coordinator_ | 2018-present
    * Design and update website.
 
 
-Volunteer Experience
+[Volunteer Experience](volunteer.md)
 --------------------
 
 #### Historic Hannibal Marketing Council: 
@@ -89,6 +80,8 @@ Hannibal Jaycees | 2019
 
  
  
+ 
+ 
 INFO1000_Final_Project
 Final Project - INFO1000
 
@@ -104,14 +97,14 @@ The README.md is to serve as the [home page](https://en.wikipedia.org/wiki/Home_
 The information that you present on the markdown pages is up to you. But, it must meet the following requirements. The site must have a minimum of five markdown pages and contain the following somewhere on the pages.
 
 * Paragraphs.
-* DONE Headers.
-* Links between the markdown pages.
-* DONE Links to other web sites.
+* DONE      Headers.
+* DONE      Links between the markdown pages.
+* DONE      Links to other web sites.
 * One or more images that are hosted in the GitHub repo.
 * One or more images that are hosted elsewhere on the web.
-* DONE A list.
-* DONE Some text that is bolded.
-* DONE Some text that is italicized.
+* DONE      A list.
+* DONE      Some text that is bolded.
+* DONE      Some text that is italicized.
 * A block of code.
 
 
