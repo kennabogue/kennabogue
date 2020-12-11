@@ -1,6 +1,6 @@
 <img src="Kenna.png" align="left" width="110" height="110" >
 
-## **[Resume](README.md) | [Education](education.md) | [Work Experience](experience.md)| [Volunteer Experience](volunteer.md) | [Contact](contact.md)**
+## **[Resume](README.md) | [Education](education.md) | [Work Experience](experience.md)| [Volunteer Experience](volunteer.md) | [About](about.md)**
 
 # Kenna Bogue - [Resume](README.md)
 ---------
@@ -100,7 +100,7 @@ The information that you present on the markdown pages is up to you. But, it mus
 * DONE      Headers.
 * DONE      Links between the markdown pages.
 * DONE      Links to other web sites.
-* One or more images that are hosted in the GitHub repo.
+* DONE      One or more images that are hosted in the GitHub repo.
 * One or more images that are hosted elsewhere on the web.
 * DONE      A list.
 * DONE      Some text that is bolded.
