@@ -20,17 +20,17 @@ kennabogue@gmail.com
 <p>Seeking to learn more, work hard, and love life.<br>
 
 <p>Say hello at kennabogue@gmail.com.<p>
-  
-    first_name = "Kenna" 
-    last_name = "Bogue"
-    my_age = int("28")
-    hobbyA, hobbyB = "kayaking" , "walking my dogs"
-    hometown = "Hannibal, Missouri"
-    time_resided = int("6")
-
-
-    print ("My name is", first_name, last_name)
-    print ("I am", my_age, "years old")
-    print ("My hobbies include", hobbyA, "&", hobbyB)
-    print ("I live in", hometown) 
-    print ("I have lived here since I was", my_age-time_resided)
+ 
+```py 
+first_name = "Kenna" 
+last_name = "Bogue"
+my_age = int("28")
+hobbyA, hobbyB = "kayaking" , "walking my dogs"
+hometown = "Hannibal, Missouri"
+time_resided = int("6")
+print ("My name is", first_name, last_name)
+print ("I am", my_age, "years old")
+print ("My hobbies include", hobbyA, "&", hobbyB)
+print ("I live in", hometown) 
+print ("I have lived here since I was", my_age - time_resided)
+```
