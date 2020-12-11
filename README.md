@@ -1,9 +1,9 @@
 Kenna Bogue
 ---------
 
--------------------     ----------------------------
-Hannibal, MO         kennabogue@gmail.com         (636)385-0643
--------------------     ----------------------------
+Hannibal, MO         
+kennabogue@gmail.com         
+(636)385-0643
 
 Education
 ---------
@@ -43,21 +43,21 @@ Volunteer Experience
 
 **Historic Hannibal Marketing Council:** _Board Member and Event Chair_ | 2016-present   
 
-    * Organized and expanded annual fundraising festivals.
-    * Oversight of organization goals.
-    * Established time-efficient processes.
+   * Organized and expanded annual fundraising festivals.
+   * Oversight of organization goals.
+   * Established time-efficient processes.
 
 **Hannibal Chamber of Commberce:** _Chamber Ambassador_ | 2019-present
 
-    * Volunteer and fundraise for Chamber of Commerce events.
-    * Greet visitors as they disembark riverboats into Hannibal.
-    * Attend Ribbon Cutting and networking events.
+   * Volunteer and fundraise for Chamber of Commerce events.
+   * Greet visitors as they disembark riverboats into Hannibal.
+   * Attend Ribbon Cutting and networking events.
 
 **Hannibal Concert Association:** _Board Member and Booking Chair_ | 2017-present
 
-    * Created the first website and online ticket sales for the organization.
-    * Book season entertainment and arrange details for performances.
-    * Present performer options to Board of Directors and collect votes.
+   * Created the first website and online ticket sales for the organization.
+   * Book season entertainment and arrange details for performances.
+   * Present performer options to Board of Directors and collect votes.
 
 
 Awards
