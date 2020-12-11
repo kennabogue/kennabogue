@@ -2,11 +2,11 @@
 
 title: Kenna Bogue
 navigation:
-  - label: Home
-  - label: Education
-  - label: Experience
-  - label: Volunteer Work & Awards
-  - label: Awards
+  - [Home]
+  - [Education]
+  - [Experience]
+  - [Volunteer Work]
+  - [Contact]
     
 
 ---
