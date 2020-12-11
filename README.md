@@ -1,3 +1,33 @@
+---
+
+title: Kenna Bogue
+
+navigation:
+
+  - section: Resume
+
+  - document: README.md
+
+    label: Home
+
+  - document: data_sources_doc
+
+    label: Education
+
+  - document: data_definitions_doc
+
+    label: Experience
+
+  - document: faq_doc
+
+    label: Volunteer Work
+
+  - document: release_notes_doc
+
+    label: Awards
+
+---
+
 # Kenna Bogue
 ---------
 
@@ -91,7 +121,7 @@ The README.md is to serve as the [home page](https://en.wikipedia.org/wiki/Home_
 The information that you present on the markdown pages is up to you. But, it must meet the following requirements. The site must have a minimum of five markdown pages and contain the following somewhere on the pages.
 
 * Paragraphs.
-* Headers.
+* DONE Headers.
 * Links between the markdown pages.
 * DONE Links to other web sites.
 * One or more images that are hosted in the GitHub repo.
