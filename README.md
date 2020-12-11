@@ -77,33 +77,4 @@ Herald Whig | 2019
 #### C. William Brownfield Memorial Award: 
 Hannibal Jaycees | 2019
 
- 
- 
- 
- 
-INFO1000_Final_Project
-Final Project - INFO1000
-
-Final Project
-
-
-**Requirements:**
-
-This project is to be managed in a public GitHub repository. Submit the Clone with HTTPS URL for the repository that contains the personal site.
-
-The README.md is to serve as the [home page](https://en.wikipedia.org/wiki/Home_page) for your personal site on GitHub. Other markdown pages are to be linked to from the README.md. Provide navigation forward and backward when linking between markdown documents. Also, if useful, create links to navigate within a markdown document.
-
-The information that you present on the markdown pages is up to you. But, it must meet the following requirements. The site must have a minimum of five markdown pages and contain the following somewhere on the pages.
-
-* DONE      Paragraphs.
-* DONE      Headers.
-* DONE      Links between the markdown pages.
-* DONE      Links to other web sites.
-* DONE      One or more images that are hosted in the GitHub repo.
-* DONE      One or more images that are hosted elsewhere on the web.
-* DONE      A list.
-* DONE      Some text that is bolded.
-* DONE      Some text that is italicized.
-* A block of code.
-
 
