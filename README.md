@@ -1,4 +1,75 @@
-# INFO1000_Final_Project
+Kenna Bogue
+---------
+
+-------------------     ----------------------------
+Hannibal, MO         kennabogue@gmail.com         (636)385-0643
+-------------------     ----------------------------
+
+Education
+---------
+
+2020-present
+:   **BSc, Information Technology**; _[University of Missouri](https://missouri.edu/)_ Columbia)
+
+2010-2014
+:   **Complete 110 credits toward BA, Music**; _[Truman State University](https://www.truman.edu/)_ (Kirksville)
+
+
+Experience
+----------
+
+**[Mark Twain Dinette](https://marktwaindinette.com/):** _General Manager_ | 2014-present
+
+   * Create and implement plan through social media, email marketing, digital media, and more.
+   * Design and update website on regular basis.
+   * Design menus and print materials.
+   * Manage Point of Sale and track sales.
+   * Manage Google My Business, Trip Advisor, and other review sites.
+   * Schedule, hire, and supervise staff.
+   * Work alongside staff as necessary during peak hours to provide an excellent customer experience.
+   * First item
+
+**Idependent Contractor:** _Marketing Coordinator_ | 2018-present
+
+   * Plan festivals in downtown Hannibal.
+   * Foster cooperation among downtown merchants.
+   * Utilize social media marketing tactics to increase reach and improve engagement.
+   * Send email blasts to followers on upcoming events.
+   * Design and update website.
+
+
+Volunteer Experience
+--------------------
+
+**Historic Hannibal Marketing Council:** _Board Member and Event Chair_ | 2016-present   
+
+    * Organized and expanded annual fundraising festivals.
+    * Oversight of organization goals.
+    * Established time-efficient processes.
+
+**Hannibal Chamber of Commberce:** _Chamber Ambassador_ | 2019-present
+
+    * Volunteer and fundraise for Chamber of Commerce events.
+    * Greet visitors as they disembark riverboats into Hannibal.
+    * Attend Ribbon Cutting and networking events.
+
+**Hannibal Concert Association:** _Board Member and Booking Chair_ | 2017-present
+
+    * Created the first website and online ticket sales for the organization.
+    * Book season entertainment and arrange details for performances.
+    * Present performer options to Board of Directors and collect votes.
+
+
+Awards
+----------------------------------------
+
+**20 Under 40 Award:** Herald Whig | 2019
+
+**C. William Brownfield Memorial Award:** Hannibal Jaycees | 2019
+
+ 
+ 
+INFO1000_Final_Project
 Final Project - INFO1000
 
 ## Final Project
@@ -18,82 +89,12 @@ The information that you present on the markdown pages is up to you. But, it mus
 * Paragraphs.
 * Headers.
 * Links between the markdown pages.
-* Links to other web sites.
+* DONE Links to other web sites.
 * One or more images that are hosted in the GitHub repo.
 * One or more images that are hosted elsewhere on the web.
-* A list.
-* Some text that is bolded.
-* Some text that is italicized.
+* DONE A list.
+* DONE Some text that is bolded.
+* DONE Some text that is italicized.
 * A block of code.
-
-
-Kenna Bogue
-============
-
--------------------     ----------------------------
-Hannibal, MO         kennabogue@gmail.com         (636)385-0643
--------------------     ----------------------------
-
-Education
----------
-
-2020-present
-:   **BSc, Information Technology**; [University of Missouri](https://missouri.edu/) (Columbia)
-
-2010-2014
-:   **Complete 110 credits toward BA, Music**; [Truman State University](https://www.truman.edu/) (Kirksville)
-
-
-Experience
-----------
-
-**[Mark Twain Dinette](https://marktwaindinette.com/):** General Manager | 2014-present
-
-* Create and implement plan through social media, email marketing, digital media, and more.
-* Design and update website on regular basis.
-* Design menus and print materials.
-* Manage Point of Sale and track sales.
-* Manage Google My Business, Trip Advisor, and other review sites.
-* Schedule, hire, and supervise staff.
-* Work alongside staff as necessary during peak hours to provide an excellent customer experience.
-* First item
-
-**Idependent Contractor:** Marketing Coordinator | 2018-present
-
-* Plan festivals in downtown Hannibal.
-* Foster cooperation among downtown merchants.
-* Utilize social media marketing tactics to increase reach and improve engagement.
-* Send email blasts to followers on upcoming events.
-* Design and update website.
-
-
-Volunteer Experience
---------------------
-
-**Historic Hannibal Marketing Council:** Board Member and Event Chair | 2016-present   
-
-    * Organized and expanded annual fundraising festivals.
-    * Oversight of organization goals.
-    * Established time-efficient processes.
-
-**Hannibal Chamber of Commberce:** Chamber Ambassador | 2019-present
-
-    * Volunteer and fundraise for Chamber of Commerce events.
-    * Greet visitors as they disembark riverboats into Hannibal.
-    * Attend Ribbon Cutting and networking events.
-
-**Hannibal Concert Association:** Board Member and Booking Chair | 2017-present
-
-    * Created the first website and online ticket sales for the organization.
-    * Book season entertainment and arrange details for performances.
-    * Present performer options to Board of Directors and collect votes.
-
-
-Awards
-----------------------------------------
-
-**20 Under 40 Award:** Herald Whig | 2019
-
-**C. William Brownfield Memorial Award:** Hannibal Jaycees | 2019
 
 
