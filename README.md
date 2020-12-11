@@ -1,30 +1,13 @@
 ---
 
 title: Kenna Bogue
-
 navigation:
-
-  - section: Resume
-
-  - document: README.md
-
-    label: Home
-
-  - document: data_sources_doc
-
-    label: Education
-
-  - document: data_definitions_doc
-
-    label: Experience
-
-  - document: faq_doc
-
-    label: Volunteer Work
-
-  - document: release_notes_doc
-
-    label: Awards
+  - label: Home
+  - label: Education
+  - label: Experience
+  - label: Volunteer Work & Awards
+  - label: Awards
+    
 
 ---
 
