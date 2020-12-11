@@ -32,7 +32,6 @@ _General Manager_ | 2014-present
    * Manage Google My Business, Trip Advisor, and other review sites.
    * Schedule, hire, and supervise staff.
    * Work alongside staff as necessary during peak hours to provide an excellent customer experience.
-   * First item
 
 #### Idependent Contractor: 
 _Marketing Coordinator_ | 2018-present
@@ -96,12 +95,12 @@ The README.md is to serve as the [home page](https://en.wikipedia.org/wiki/Home_
 
 The information that you present on the markdown pages is up to you. But, it must meet the following requirements. The site must have a minimum of five markdown pages and contain the following somewhere on the pages.
 
-* Paragraphs.
+* DONE      Paragraphs.
 * DONE      Headers.
 * DONE      Links between the markdown pages.
 * DONE      Links to other web sites.
 * DONE      One or more images that are hosted in the GitHub repo.
-* One or more images that are hosted elsewhere on the web.
+* DONE      One or more images that are hosted elsewhere on the web.
 * DONE      A list.
 * DONE      Some text that is bolded.
 * DONE      Some text that is italicized.
