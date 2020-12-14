@@ -33,7 +33,7 @@ _General Manager_ | 2014-present
    * Schedule, hire, and supervise staff.
    * Work alongside staff as necessary during peak hours to provide an excellent customer experience.
 
-#### Idependent Contractor: 
+#### Independent Contractor: 
 _Marketing Coordinator_ | 2018-present
 
    * Plan festivals in downtown Hannibal.
