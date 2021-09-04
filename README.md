@@ -34,7 +34,7 @@ _General Manager_ | 2014-present
    * Work alongside staff as necessary during peak hours to provide an excellent customer experience.
 
 #### Independent Contractor: 
-_Marketing Coordinator_ | 2018-present
+_Marketing Coordinator_ | 2018-2021
 
    * Plan festivals in downtown Hannibal.
    * Foster cooperation among downtown merchants.
@@ -53,7 +53,7 @@ _Board Member and Event Chair_ | 2016-present
    * Oversight of organization goals.
    * Established time-efficient processes.
 
-#### Hannibal Chamber of Commberce: 
+#### Hannibal Chamber of Commerce: 
 _Chamber Ambassador_ | 2019-present
 
    * Volunteer and fundraise for Chamber of Commerce events.
@@ -61,8 +61,7 @@ _Chamber Ambassador_ | 2019-present
    * Attend Ribbon Cutting and networking events.
 
 #### Hannibal Concert Association:
-_Board Member and Booking Chair_ | 2017-present
-
+_Board Member and Booking Chair_ | 2017-2021
    * Created the first website and online ticket sales for the organization.
    * Book season entertainment and arrange details for performances.
    * Present performer options to Board of Directors and collect votes.
