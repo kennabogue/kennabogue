@@ -1,8 +1,8 @@
 <img src="Kenna.png" align="left" width="110" height="110" >
 
-## **[Resume](README.md) | [Education](education.md) | [Work Experience](experience.md)| [Volunteer Experience](volunteer.md) | [About](about.md)**
+## **[Main](#kenna-bogue) | [Education](#education) | [Work Experience](#work-experience) | [Skills](#skills) | [Projects](#projects)   | [Awards](#awards) | [Volunteer Experience](#volunteer-experience) |  [About](about.md)**
 
-# Kenna Bogue - [Resume](README.md)
+# Kenna Bogue - [Resume](https://drive.google.com/file/d/1vZQ8aODa81Y5qsFoKpZpY-ijVX6VQoLQ/view?usp=sharing)
 ---------
 
 _Contact Information:_ 
@@ -12,9 +12,8 @@ _Contact Information:_
 * [LinkedIn](linkedin.com/in/kenna-bogue/)
 * [Github](github.com/kennabogue)
 
-## [Education](education.md)
+## Education
 ---------
-
 
 #### [UNIVERSITY OF MISSOURI]((https://missouri.edu/)): | December 2022
 _Bachelor of Science, Information Technology:_ | GPA: 3.75
@@ -36,7 +35,7 @@ _Coursework:_
 * Media Design, Computer Modeling, and Visual Effects
 
 
-## [Work Experience](experience.md)
+## Work Experience
 ----------
 
 #### [Mark Twain Dinette](https://marktwaindinette.com/):
@@ -56,9 +55,32 @@ _Marketing Coordinator_ | 08/2018-05/2021
    * Provided clear communication with the organization and community stakeholders about downtown events and news
    * Coordinated, recruited, and managed volunteer committees through the entire event process, from proposal and budgeting, marketing and planning, to event management
 
+## Skills
+---------
 
-[Volunteer Experience](volunteer.md)
+_Programming Languages:_ 
+   * Python, Swift, and C#
+_Databases:_ 
+   * Relational: SQL and MySQL NoSQL: MongoDB
+   * Web Development: HTML, CSS, PHP, Javascript Bootstrap, Flask
+_Operating Systems:_
+   * Linux, Windows, MacOS, and iOS
+_Version Control:_
+   * Git and GitHub
+_Software:_
+   * Jira, Zoom
+   * Visual Studio, Xcode, Atom, IDLE
+   * Unreal Engine, Blender,
+   * Adobe After Effects and Photoshop - Cisco Packet Tracer, Wireshark
+   * VMWare, VirtualBox
+   * Docker
+   * Microsoft Office, Google Drive
+
+## Projects
 --------------------
+   * [Capstone: Scavenger Hunt Mobile Application](https://github.com/hossam-hassan1/CapstoneProject)(current)
+   * [Python Word Tile Game](https://github.com/kennabogue/WordGame)
+   * Interactive HR Database Python Application
 
 #### Historic Hannibal Marketing Council: 
 _Board Member and Event Chair_ | 2016-2021 
@@ -81,7 +103,7 @@ _Board Member and Booking Chair_ | 2017-2021
    * Present performer options to Board of Directors and collect votes.
 
 
-Awards
+## Awards
 ----------------------------------------
 
 #### 20 Under 40 Award:
