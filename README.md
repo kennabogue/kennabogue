@@ -78,9 +78,14 @@ _Software:_
 
 ## Projects
 --------------------
+
    * [Capstone: Scavenger Hunt Mobile Application](https://github.com/hossam-hassan1/CapstoneProject)(current)
    * [Python Word Tile Game](https://github.com/kennabogue/WordGame)
    * Interactive HR Database Python Application
+
+
+## Volunteer Experience
+--------------------
 
 #### Historic Hannibal Marketing Council: 
 _Board Member and Event Chair_ | 2016-2021 
