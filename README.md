@@ -8,15 +8,16 @@
 Hannibal, MO         
 kennabogue@gmail.com         
 (636)385-0643
+linkedin.com/in/kenna-bogue/
+https://github.com/kennabogue
 
 ## [Education](education.md)
 ---------
 
-2020-present
-: **BS, Information Technology:** _[University of Missouri,](https://missouri.edu/)_ Columbia, MO
-
-2010-2014
-: **Complete 110 credits toward BA, Music:** _[Truman State University,](https://www.truman.edu/)_ Kirksville, MO
+**_[UNIVERSITY OF MISSOURI]((https://missouri.edu/))_** | December 2022
+   **Bachelor of Science, Information Technology:** | GPA: 3.75
+   Mobile and Web Application Development Certificate 
+   Technology and Media Design Certificate
 
 
 ## [Work Experience](experience.md)
