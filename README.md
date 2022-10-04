@@ -14,10 +14,25 @@ https://github.com/kennabogue
 ## [Education](education.md)
 ---------
 
-**_[UNIVERSITY OF MISSOURI]((https://missouri.edu/))_** | December 2022
-   **Bachelor of Science, Information Technology:** | GPA: 3.75
-   Mobile and Web Application Development Certificate 
-   Technology and Media Design Certificate
+
+#### [UNIVERSITY OF MISSOURI]((https://missouri.edu/)): | December 2022
+_Bachelor of Science, Information Technology:_ | GPA: 3.75
+   * Mobile and Web Application Development Certificate 
+   * Technology and Media Design Certificate
+
+_Honors and Awards:_ 
+   * College of Engineering Dean's High Honor Roll: Fall 2020 through Spring 2022
+
+_Coursework:_
+* Software Engineering
+* iOS Mobile Application Development I & II
+* Web Development
+* Programming Languages and Paradigms I & II Computer Network Security
+* Cyber Security
+* Database Systems and Applications
+* Project and Team Management
+* Game Development
+* Media Design, Computer Modeling, and Visual Effects
 
 
 ## [Work Experience](experience.md)
